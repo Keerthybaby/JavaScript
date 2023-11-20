@@ -1,1 +1,1 @@
-alert("Good morning!");
+alert("Good morning");
