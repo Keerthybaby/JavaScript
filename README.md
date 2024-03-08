@@ -1,4 +1,4 @@
-# JavaScript <img src="/images/js.png" alt="icon" width="70" height="50">
+# JavaScript ![JS logo](/images/js.jpg)
 
 
 Welcome to the JavaScript repository. This repository is a collection of JavaScript code snippets, projects, and exercises.
